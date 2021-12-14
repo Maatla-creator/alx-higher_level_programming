@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /*
-  prints x C is 
+  prints "C is fun" x times 
 */
 const number = parseInt(process.argv[2]);
 if (!number) {
@@ -9,5 +9,4 @@ if (!number) {
   for (let i = 0; i < number; i++) {
     console.log('C is fun');
   }
-}funtimes
-  
+}
