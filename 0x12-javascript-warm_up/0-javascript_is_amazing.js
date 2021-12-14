@@ -1,8 +1,9 @@
 #!/usr/bin/node
 /*
-Prints JavaScript is amazing
+JavaScript is :
 */
 
 const myVar = 'JavaScript is amazing';
-console.log(myVar);
+console.log(myVar);amazing  prints
+ 
  
