@@ -85,3 +85,35 @@ You must use the class notation for defining your class and extends
 Create an instance method called charPrint(c) that prints the rectangle using the character c
 
 If c is undefined, use the character X.
+
+File: 7-occurrences.js:
+
+Write a function that returns the number of occurrences in a list:
+
+Prototype: exports.nbOccurences = function (list, searchElement)
+
+File: 8-esrever.js:
+
+Write a function that returns the reversed version of a list:
+
+Prototype: exports.esrever = function (list)
+
+You are not allow to use the built-in method reverse
+
+File: 9-logme.js:
+
+Write a function that prints the number of arguments already printed and the new argument value. 
+
+Prototype: exports.logMe = function (item)
+
+Output format: <number arguments already printed>: <current argument value>
+
+File: 10-converter.js:
+
+Write a function that converts a number from base 10 to another base passed as argument:
+
+Prototype: exports.converter = function (base)
+
+You are not allowed to import any file
+
+You are not allowed to declare any new variable (var, let, etc..)
